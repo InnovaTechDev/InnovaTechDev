@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hola, soy Sebastian Enrique Visalli Campos  
 
-<!--
-**InnovaTechDev/InnovaTechDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Software en la Universidad Nacional Mayor de San Marcos (UNMSM).  
+💡 Apasionado por la inteligencia artificial, nuevas tecnologías, emprendimientos y desarrollo de software.  
+🚀 Fundador de proyectos que buscan innovar en tecnología y emprendimiento:  
+- EcoMYPES → Digitalización de microempresas y pequeñas empresas con IA.  
+- EcoAliados & EcoGuardianes → Plataforma integral de reciclaje gamificada.  
+- Arte en Copas → Emprendimiento en coctelería y experiencias de barra.  
+- Bastian Viss → Creador de contenido en tecnología, negocios, lifestyle y gaming.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas  
+- **Lenguajes:** Python, C++, SQL, HTML, CSS, Java (básico).  
+- **Data & Cloud:** Power BI, Google Cloud, AWS, Azure.  
+- **Gestión & Marketing:** Git, GitHub, Trello, WhatsApp Business, Facebook Ads.  
+
+---
+
+## 🌱 Actualmente aprendiendo  
+- Desarrollo backend con Python.  
+- Inteligencia artificial aplicada a negocios.  
+- Estrategias de emprendimiento digital.  
+
+---
+
+## 📌 Conéctate conmigo  
+- **LinkedIn:** [Sebastian Enrique Visalli Campos]((http://www.linkedin.com/in/sebastian-enrique-visalli-campos-779339388))  
+- **X (Twitter):** [InnovaTech](https://x.com/Innova_Tech2025)  
+- **Portafolio / Linktree:** [Mi portafolio]((https://linktr.ee/BastianViss))  
+
+---
+⭐ *Mi objetivo es combinar la tecnología con el emprendimiento para crear soluciones innovadoras que generen impacto real.*  
+
